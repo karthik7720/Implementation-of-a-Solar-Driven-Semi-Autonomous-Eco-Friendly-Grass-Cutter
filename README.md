@@ -23,6 +23,9 @@ Features
 •	Remote monitoring and control using MIT App Inventor
 
 
+![Final Circuit](https://github.com/user-attachments/assets/6359fb5b-571a-4139-846b-1984f72e9d80)
+
+
 Components Used
 
 •	Arduino Nano (Microcontroller)
