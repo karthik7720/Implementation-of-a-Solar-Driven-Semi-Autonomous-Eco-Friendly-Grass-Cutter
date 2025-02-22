@@ -5,7 +5,8 @@ This project presents a solar-powered, semi-autonomous grass cutter designed for
 eco-friendly lawn maintenance. The system operates on renewable solar energy and features 
 Bluetooth control, obstacle detection, and dual operation modes (manual & autonomous).
 It reduces manual effort and promotes sustainable lawn care by integrating automation and smart
-control.
+control.![Picture](https://github.com/user-attachments/assets/e7753b9c-c03b-479a-b297-dc8ad538b899)
+
 
 Features
 
