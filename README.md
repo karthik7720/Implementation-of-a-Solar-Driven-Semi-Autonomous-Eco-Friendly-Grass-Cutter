@@ -60,12 +60,20 @@ adjusts direction via a servo mechanism, and features a mode control switch for 
 operation. The solar panel charges the battery, ensuring an eco-friendly and continuous power 
 supply.
 
+
+![App_Interface](https://github.com/user-attachments/assets/486e430a-3c3d-4a50-a04b-f2a0b582e7c8)
+
+
 Creating the Mobile App Using MIT App Inventor
 1.	Open MIT App Inventor – Go to MIT App Inventor and create a new project.
 2.	Design the User Interface – Add buttons for movement controls (Forward, Backward, Left, Right, Stop), a Bluetooth connection module, and a status display.
 3.	Connect to Bluetooth Module – Use the BluetoothClient component to establish a connection with the HC-05 module.
 4.	Send Commands to Arduino – Assign each button to send movement commands via Bluetooth (e.g., "F" for forward, "B" for backward).
 5.	Test and Deploy – Install the app on your Android device, pair it with the Bluetooth module, and control the grass cutter remotely.
+
+
+![Uploading Grass_Results.jpg…]()
+
 
 Applications
 
