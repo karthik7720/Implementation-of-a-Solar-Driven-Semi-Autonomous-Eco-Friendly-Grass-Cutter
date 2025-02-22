@@ -1,6 +1,11 @@
 Solar-Driven Semi-Autonomous Eco-Friendly Grass Cutter
+
 Introduction
-This project presents a solar-powered, semi-autonomous grass cutter designed for efficient and eco-friendly lawn maintenance. The system operates on renewable solar energy and features Bluetooth control, obstacle detection, and dual operation modes (manual & autonomous). It reduces manual effort and promotes sustainable lawn care by integrating automation and smart control.
+This project presents a solar-powered, semi-autonomous grass cutter designed for efficient and
+eco-friendly lawn maintenance. The system operates on renewable solar energy and features 
+Bluetooth control, obstacle detection, and dual operation modes (manual & autonomous). It reduces manual effort and promotes sustainable lawn care by integrating automation and smart
+control.
+
 Features
 •	Solar-powered operation for energy efficiency
 •	Semi-autonomous navigation with obstacle detection
